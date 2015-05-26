@@ -1,0 +1,6 @@
+C:\Projects\C#\Day1ConsoleLog\Day1ConsoleLog\bin\Debug\Day1ConsoleLog.exe.config
+C:\Projects\C#\Day1ConsoleLog\Day1ConsoleLog\bin\Debug\Day1ConsoleLog.exe
+C:\Projects\C#\Day1ConsoleLog\Day1ConsoleLog\bin\Debug\Day1ConsoleLog.pdb
+C:\Projects\C#\Day1ConsoleLog\Day1ConsoleLog\obj\Debug\Day1ConsoleLog.csprojResolveAssemblyReference.cache
+C:\Projects\C#\Day1ConsoleLog\Day1ConsoleLog\obj\Debug\Day1ConsoleLog.exe
+C:\Projects\C#\Day1ConsoleLog\Day1ConsoleLog\obj\Debug\Day1ConsoleLog.pdb
